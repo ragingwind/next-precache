@@ -71,7 +71,7 @@ function app() {
 module.exports = root => {
 	root = root || './'
 
-	dotNext = path.resolve(__dirname, path.join(root, '.next'))
+	dotNext = path.resolve(path.join(root, '.next'))
 
 	return app()
 		.then(chunks)

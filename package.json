@@ -1,6 +1,6 @@
 {
   "name": "next-precache",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Manifest needs to be precached for service worker for Next.js",
   "license": "MIT",
   "repository": "ragingwind/next-precache",
@@ -20,9 +20,9 @@
   ],
   "keywords": [
     "next",
-		"next.js",
-		"service worker",
-		"precahe"
+    "next.js",
+    "service worker",
+    "precahe"
   ],
   "dependencies": {
     "load-json-file": "^2.0.0"

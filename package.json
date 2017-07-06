@@ -1,5 +1,5 @@
 {
-  "name": "next-precache",
+  "name": "@pwa/next-precache",
   "version": "0.1.1",
   "description": "Manifest needs to be precached for service worker for Next.js",
   "license": "MIT",
@@ -33,5 +33,8 @@
   },
   "xo": {
     "semicolon": false
+  },
+	"publishConfig": {
+    "access": "public"
   }
 }

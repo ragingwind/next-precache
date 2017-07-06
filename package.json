@@ -1,6 +1,6 @@
 {
   "name": "@pwa/next-precache",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Manifest needs to be precached for service worker for Next.js",
   "license": "MIT",
   "repository": "ragingwind/next-precache",
@@ -34,7 +34,7 @@
   "xo": {
     "semicolon": false
   },
-	"publishConfig": {
+  "publishConfig": {
     "access": "public"
   }
 }
